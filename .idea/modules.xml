@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daily-goals.iml" filepath="$PROJECT_DIR$/daily-goals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/daily-goals.iml" filepath="$PROJECT_DIR$/.idea/daily-goals.iml" />
+      <module fileurl="file://F:\AndroidWorkspace\daily-goals\daily-goals.iml" filepath="F:\AndroidWorkspace\daily-goals\daily-goals.iml" />
     </modules>
   </component>
 </project>
